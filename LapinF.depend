@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1700392112 source:/home/rafik/Bureau/LapinF/cube.cpp
+	<cstdio>
+	<cstdlib>
+	<GL/freeglut.h>
+	<jpeglib.h>
+	<jerror.h>
+	<cmath>
+
